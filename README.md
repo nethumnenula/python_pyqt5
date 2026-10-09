@@ -2,6 +2,7 @@
 # Installation
 - `pip install pyqt5`
 - `pip install pygame`
+- `python -m pip install PyQt5 pyqt5-tools`
 
 # Imports
 - **sys** - This module provides access to some variables used or maintained by the interpreter and to functions that inter-act strongly with the interpreter. 
